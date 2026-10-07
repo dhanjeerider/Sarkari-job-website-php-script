@@ -6,8 +6,8 @@
 | | |
 |---|---|
 | **Project** | GovLinks — Sarkari Naukri Information Portal (PHP 8 + SQLite/MySQL) |
-| **Live preview** | **https://8000-iduiyqjy9pf8arzqzoj4d.e2b.app** |
-| **Admin panel** | **https://8000-iduiyqjy9pf8arzqzoj4d.e2b.app/admin/login.php** |
+| **Live preview** | **[[http://srkari.rf.gd/](http://srkari.rf.gd/)](http://srkari.rf.gd/)** |
+| **Admin panel** | **[[http://srkari.rf.gd/](http://srkari.rf.gd//admin/login.php)](http://srkari.rf.gd/)/admin/login.php** |
 | **Admin email** | `dkkr5558@gmail.com` |
 | **Admin password (demo)** | `Admin@123` *(बदल दें — Admin → Profile)* |
 | **Documentation date** | 2026-10-07 |
